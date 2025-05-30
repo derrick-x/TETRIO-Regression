@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <script src="/static/script.js"></script>
+<body>
+    <h1>Estimate Glicko from Stats</h1>
+    <label>APM: <input type="number" id="apm1" step="0.01"></label><br>
+    <label>PPS: <input type="number" id="pps1" step="0.01"></label><br>
+    <label>VS: <input type="number" id="vs1" step="0.01"></label><br>
+    <button onclick="statsToGlicko()">Run</button>
+    <p id="result1"></p>
+    <h1>Estimate Glicko of Player</h1>
+    <label>Player name: <input type="text" id="player2" step="0.01"></label><br>
+    <button onclick="estimateGlicko()">Run</button>
+    <p id="result2"></p>
+    <h1>Get Player's Playstyle</h1>
+    <label>Player name: <input type="text" id="player3" step="0.01"></label><br>
+    <button onclick="getPlaystyle()">Run</button>
+    <p id="result3"></p>
+    <h1>Get Matchup Between Two Players</h1>
+    <label>Player name: <input type="text" id="player4" step="0.01"></label><br>
+    <label>Opponent name: <input type="text" id="opponent4" step="0.01"></label><br>
+    <button onclick="getMatchupPlayers()">Run</button>
+    <p id="result4"></p>
+    <h1>Get Matchup Between Player and Stats</h1>
+    <label>Player name: <input type="text" id="player5" step="0.01"></label><br>
+    <label>Opponent APM: <input type="number" id="apm5" step="0.01"></label><br>
+    <label>Opponent PPS: <input type="number" id="pps5" step="0.01"></label><br>
+    <label>Opponent VS: <input type="number" id="vs5" step="0.01"></label><br>
+    <button onclick="getMatchupStats()">Run</button>
+    <p id="result5"></p>
+    <h1>Get Player's Opener Coefficient</h1>
+    <label>Player name: <input type="text" id="player6" step="0.01"></label><br>
+    <button onclick="getOpenerCoefficient()">Run</button>
+    <p id="result6"></p>
+</body>
+</html>

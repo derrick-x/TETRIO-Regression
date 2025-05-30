@@ -1,0 +1,982 @@
+[
+    {'_id': '683248cb725ca05e69c745b3', 'replayid': '9219958632a7', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T22: 31: 39.534Z', 'revolution': None, 'otherusers': [
+            {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'avatar_revision': None, 'banner_revision': None, 'country': 'KR', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 58.69757391218937, 'pps': 1.5293193203025244, 'vsscore': 125.52794420980257, 'garbagesent': 276, 'garbagereceived': 204, 'kills': 5, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 9, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 2, 'stats': {'apm': 51.18483412322275, 'pps': 1.8967117799384374, 'vsscore': 112.86461132554844, 'garbagesent': 237, 'garbagereceived': 243, 'kills': 2, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 31393, 'stats': {'apm': 71.65142549757934, 'pps': 1.3878429263044647, 'vsscore': 119.41904249596556, 'garbagesent': 37, 'garbagereceived': 2, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 31391, 'stats': {'apm': 19.2, 'pps': 1.344, 'vsscore': 41.6, 'garbagesent': 2, 'garbagereceived': 37, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 23718, 'stats': {'apm': 92.96987087517934, 'pps': 1.7647058823529411, 'vsscore': 197.99139167862268, 'garbagesent': 35, 'garbagereceived': 12, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 23716, 'stats': {'apm': 43.25088339222615, 'pps': 1.568904593639576, 'vsscore': 110.24734982332156, 'garbagesent': 15, 'garbagereceived': 32, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 26503, 'stats': {'apm': 69.27517639512507, 'pps': 2.116741500962155, 'vsscore': 115.45862732520844, 'garbagesent': 26, 'garbagereceived': 4, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 26501, 'stats': {'apm': 31.858407079646017, 'pps': 1.6308470290771175, 'vsscore': 53.09734513274337, 'garbagesent': 5, 'garbagereceived': 21, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 78199, 'stats': {'apm': 50.0106860440265, 'pps': 2.0260739474246634, 'vsscore': 123.103227185296, 'garbagesent': 56, 'garbagereceived': 40, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 78196, 'stats': {'apm': 43.91183393965333, 'pps': 1.4123689278835865, 'vsscore': 91.16199443612241, 'garbagesent': 52, 'garbagereceived': 43, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 101892, 'stats': {'apm': 72.54259501965925, 'pps': 2.0642201834862384, 'vsscore': 158.25688073394494, 'garbagesent': 107, 'garbagereceived': 53, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 101888, 'stats': {'apm': 57.30226452248113, 'pps': 1.516245487364621, 'vsscore': 132.91762389235313, 'garbagesent': 62, 'garbagereceived': 97, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 27849, 'stats': {'apm': 48.02910855063675, 'pps': 1.1279563371740449, 'vsscore': 127.34990903577928, 'garbagesent': 20, 'garbagereceived': 16, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 27847, 'stats': {'apm': 41.130487071557425, 'pps': 1.8039687312086592, 'vsscore': 68.55081178592906, 'garbagesent': 18, 'garbagereceived': 20, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '66dafad7a2cb7179ccdfee16', 'username': 'rrrrr3', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 52624, 'stats': {'apm': 60.8806636885769, 'pps': 1.6273133375877473, 'vsscore': 137.84301212507978, 'garbagesent': 44, 'garbagereceived': 30, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 4, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 52621, 'stats': {'apm': 49.1584630041283, 'pps': 2.03874245792315, 'vsscore': 106.70053985392187, 'garbagesent': 34, 'garbagereceived': 40, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'66dafad7a2cb7179ccdfee16': [
+                    {'glicko': 2015.4947521373792, 'rd': 60.54569590319716, 'tr': 18060.197975860487, 'rank': 's+', 'placement': 4763
+                    },
+                    {'glicko': 2030.126122254633, 'rd': 60.54828370528258, 'tr': 18223.134158721925, 'rank': 'ss', 'placement': 4502
+                    }
+                ], '5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2078.5687204098417, 'rd': 60.24738241508365, 'tr': 18734.451623621684, 'rank': 'ss', 'placement': 3757
+                    },
+                    {'glicko': 2066.497148360434, 'rd': 60.25255518070765, 'tr': 18611.428803576953, 'rank': 'ss', 'placement': 3926
+                    }
+                ]
+            }, 'result': 'defeat'
+        }, 'disputed': False, 'p': {'pri': 1748125899534, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '68322e323e42dc98fb3c7d0c', 'replayid': '5ac7639147c7', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T20: 38: 10.948Z', 'revolution': None, 'otherusers': [
+            {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'avatar_revision': None, 'banner_revision': None, 'country': 'TR', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 50.44323706033743, 'pps': 1.7084031210425263, 'vsscore': 127.94640303933984, 'garbagesent': 256, 'garbagereceived': 346, 'kills': 5, 'altitude': 0, 'rank': 8, 'targetingfactor': 24, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 3, 'stats': {'apm': 61.41729052859377, 'pps': 1.748425518496041, 'vsscore': 127.09684475854064, 'garbagesent': 369, 'garbagereceived': 236, 'kills': 3, 'altitude': 0, 'rank': 8, 'targetingfactor': 24, 'targetinggrace': 0, 'btb': 6, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 78480, 'stats': {'apm': 43.71538133787814, 'pps': 1.4316148274392841, 'vsscore': 90.75415423945462, 'garbagesent': 47, 'garbagereceived': 23, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 78475, 'stats': {'apm': 26.80851063829787, 'pps': 1.1361702127659574, 'vsscore': 63.829787234042556, 'garbagesent': 28, 'garbagereceived': 44, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 20306, 'stats': {'apm': 42.035029190992496, 'pps': 1.451209341117598, 'vsscore': 90.07506255212677, 'garbagesent': 14, 'garbagereceived': 14, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 20305, 'stats': {'apm': 41.584158415841586, 'pps': 1.7821782178217822, 'vsscore': 69.30693069306932, 'garbagesent': 14, 'garbagereceived': 14, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 69299, 'stats': {'apm': 80.01932834017877, 'pps': 1.7105581058226624, 'vsscore': 178.30393814931145, 'garbagesent': 81, 'garbagereceived': 43, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 69294, 'stats': {'apm': 58.12048192771085, 'pps': 1.6626506024096384, 'vsscore': 154.69879518072287, 'garbagesent': 49, 'garbagereceived': 73, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 34077, 'stats': {'apm': 74.70355731225297, 'pps': 1.5711462450592886, 'vsscore': 177.86561264822134, 'garbagesent': 31, 'garbagereceived': 29, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 34074, 'stats': {'apm': 58.43580914904082, 'pps': 1.5346778160354158, 'vsscore': 121.00344318740777, 'garbagesent': 29, 'garbagereceived': 31, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 54939, 'stats': {'apm': 64.67722289890378, 'pps': 1.8270401948842874, 'vsscore': 131.54689403166867, 'garbagesent': 53, 'garbagereceived': 22, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 54936, 'stats': {'apm': 39.404074186682884, 'pps': 1.9884463362724232, 'vsscore': 100.33444816053512, 'garbagesent': 23, 'garbagereceived': 51, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 31989, 'stats': {'apm': 56.72268907563026, 'pps': 1.9852941176470587, 'vsscore': 148.10924369747897, 'garbagesent': 24, 'garbagereceived': 30, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 31987, 'stats': {'apm': 64.0502354788069, 'pps': 1.8524332810047095, 'vsscore': 113.02982731554161, 'garbagesent': 31, 'garbagereceived': 24, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 19111, 'stats': {'apm': 70.46263345195729, 'pps': 2.1352313167259784, 'vsscore': 144.12811387900354, 'garbagesent': 19, 'garbagereceived': 10, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 19108, 'stats': {'apm': 34.797891036906854, 'pps': 1.7926186291739896, 'vsscore': 57.99648506151143, 'garbagesent': 11, 'garbagereceived': 19, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '63b5a9a0ecb933097e33e303', 'username': '250890', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 101662, 'stats': {'apm': 57.349318443094106, 'pps': 1.9609131220233207, 'vsscore': 155.69058958778123, 'garbagesent': 68, 'garbagereceived': 95, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 101647, 'stats': {'apm': 69.74224265309473, 'pps': 1.9996716466918405, 'vsscore': 148.7440485962896, 'garbagesent': 103, 'garbagereceived': 60, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2087.887780334714, 'rd': 60.263038775600236, 'tr': 18827.51203183845, 'rank': 'ss', 'placement': 3649
+                    },
+                    {'glicko': 2078.5687204098417, 'rd': 60.24738241508365, 'tr': 18734.451623621684, 'rank': 'ss', 'placement': 3770
+                    }
+                ], '63b5a9a0ecb933097e33e303': [
+                    {'glicko': 2120.42470208559, 'rd': 60.4680621399973, 'tr': 19139.59883365683, 'rank': 'ss', 'placement': 3253
+                    },
+                    {'glicko': 2129.8086531313934, 'rd': 60.453508119708175, 'tr': 19226.403375113798, 'rank': 'ss', 'placement': 3155
+                    }
+                ]
+            }, 'result': 'defeat'
+        }, 'disputed': False, 'p': {'pri': 1748119090948, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '68322c179e3a5c5fbc21afc2', 'replayid': '25ac24642228', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T20: 29: 11.694Z', 'revolution': None, 'otherusers': [
+            {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'avatar_revision': None, 'banner_revision': None, 'country': 'GB', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 79.9252161720028, 'pps': 1.9350315494274364, 'vsscore': 161.25262911895302, 'garbagesent': 305, 'garbagereceived': 211, 'kills': 5, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 12, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 2, 'stats': {'apm': 61.51872156771259, 'pps': 2.0156304677475796, 'vsscore': 141.02414557331156, 'garbagesent': 222, 'garbagereceived': 283, 'kills': 2, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 5, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 56719, 'stats': {'apm': 95.60342283859545, 'pps': 2.035998819710829, 'vsscore': 184.12511065210978, 'garbagesent': 72, 'garbagereceived': 38, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 56716, 'stats': {'apm': 63.62297496318115, 'pps': 1.926362297496318, 'vsscore': 151.9882179675994, 'garbagesent': 38, 'garbagereceived': 63, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 48122, 'stats': {'apm': 73.77561653351859, 'pps': 2.084056964223689, 'vsscore': 170.89267106634247, 'garbagesent': 34, 'garbagereceived': 47, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 48116, 'stats': {'apm': 66.2730114623133, 'pps': 1.9798541160125043, 'vsscore': 139.63181660298713, 'garbagesent': 48, 'garbagereceived': 34, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 4, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 23732, 'stats': {'apm': 91.98012775017743, 'pps': 1.7459190915542937, 'vsscore': 153.30021291696235, 'garbagesent': 32, 'garbagereceived': 9, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 23725, 'stats': {'apm': 27.985865724381625, 'pps': 1.7809187279151943, 'vsscore': 72.08480565371025, 'garbagesent': 10, 'garbagereceived': 32, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 68493, 'stats': {'apm': 74.74352711284807, 'pps': 2.0371275036638985, 'vsscore': 171.4704445530044, 'garbagesent': 71, 'garbagereceived': 53, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 68488, 'stats': {'apm': 71.96489517308629, 'pps': 1.7698683568990738, 'vsscore': 147.73281326182354, 'garbagesent': 63, 'garbagereceived': 61, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 26542, 'stats': {'apm': 93.77382465057178, 'pps': 1.9822109275730622, 'vsscore': 198.22109275730622, 'garbagesent': 32, 'garbagereceived': 20, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 26540, 'stats': {'apm': 59.05362776025237, 'pps': 2.195583596214511, 'vsscore': 117.35015772870663, 'garbagesent': 20, 'garbagereceived': 32, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 31552, 'stats': {'apm': 61.47278548559232, 'pps': 2.0170757737459977, 'vsscore': 118.46318036286019, 'garbagesent': 26, 'garbagereceived': 14, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 31550, 'stats': {'apm': 28.647214854111404, 'pps': 1.846153846153846, 'vsscore': 73.20954907161803, 'garbagesent': 14, 'garbagereceived': 26, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 31701, 'stats': {'apm': 87.66543144520911, 'pps': 2.0645844362096346, 'vsscore': 200.10587612493381, 'garbagesent': 32, 'garbagereceived': 35, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '614641243d6fdb44cec9312b', 'username': 'hotcakes1234', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 31698, 'stats': {'apm': 70.36450079239302, 'pps': 2.218700475435816, 'vsscore': 148.9698890649762, 'garbagesent': 35, 'garbagereceived': 30, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2075.5689874215745, 'rd': 60.25033777513973, 'tr': 18704.12734195502, 'rank': 'ss', 'placement': 3809
+                    },
+                    {'glicko': 2087.887780334714, 'rd': 60.263038775600236, 'tr': 18827.51203183845, 'rank': 'ss', 'placement': 3650
+                    }
+                ], '614641243d6fdb44cec9312b': [
+                    {'glicko': 2147.306771726869, 'rd': 60.478279960442144, 'tr': 19384.05069441398, 'rank': 'ss', 'placement': 2978
+                    },
+                    {'glicko': 2134.8913044453593, 'rd': 60.49434047921064, 'tr': 19272.612307082756, 'rank': 'ss', 'placement': 3115
+                    }
+                ]
+            }, 'result': 'victory'
+        }, 'disputed': False, 'p': {'pri': 1748118551694, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '68322a4b973d47c600ae043e', 'replayid': 'ad08828b48db', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T20: 21: 31.383Z', 'revolution': None, 'otherusers': [
+            {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'avatar_revision': 1605449644853, 'banner_revision': None, 'country': 'PH', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 61.088580576307365, 'pps': 1.6136606189967984, 'vsscore': 133.19103521878336, 'garbagesent': 265, 'garbagereceived': 232, 'kills': 5, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 9, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 2, 'stats': {'apm': 60.33096926713948, 'pps': 1.9952718676122931, 'vsscore': 125.76832151300236, 'garbagesent': 259, 'garbagereceived': 233, 'kills': 2, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 6, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 26394, 'stats': {'apm': 64.37414030261348, 'pps': 1.2379642365887207, 'vsscore': 148.55570839064646, 'garbagesent': 22, 'garbagereceived': 18, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 26392, 'stats': {'apm': 43.4561626429479, 'pps': 1.4866581956797966, 'vsscore': 72.4269377382465, 'garbagesent': 18, 'garbagereceived': 22, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 44711, 'stats': {'apm': 71.19038386971695, 'pps': 1.4191547111283442, 'vsscore': 160.5273361768127, 'garbagesent': 46, 'garbagereceived': 27, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 44706, 'stats': {'apm': 59.303631598652196, 'pps': 2.044178210408087, 'vsscore': 119.05653313365782, 'garbagesent': 34, 'garbagereceived': 39, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 86473, 'stats': {'apm': 61.229223038268266, 'pps': 1.9482025512176266, 'vsscore': 143.79590258987244, 'garbagesent': 64, 'garbagereceived': 60, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 86468, 'stats': {'apm': 53.01298198023638, 'pps': 1.685719821739973, 'vsscore': 124.39449719046698, 'garbagesent': 69, 'garbagereceived': 56, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 31169, 'stats': {'apm': 35.140997830802604, 'pps': 1.561822125813449, 'vsscore': 65.0759219088937, 'garbagesent': 18, 'garbagereceived': 17, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 31167, 'stats': {'apm': 38.66809881847475, 'pps': 1.9334049409237377, 'vsscore': 64.44683136412459, 'garbagesent': 17, 'garbagereceived': 15, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 53572, 'stats': {'apm': 86.78772698810269, 'pps': 2.2730118973074513, 'vsscore': 195.36631183469004, 'garbagesent': 68, 'garbagereceived': 37, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 53567, 'stats': {'apm': 71.11947318908749, 'pps': 1.768579492003763, 'vsscore': 152.3988711194732, 'garbagesent': 44, 'garbagereceived': 62, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 26052, 'stats': {'apm': 72.98888162197515, 'pps': 1.7266187050359711, 'vsscore': 129.49640287769785, 'garbagesent': 31, 'garbagereceived': 13, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 26048, 'stats': {'apm': 46.30225080385852, 'pps': 1.8135048231511253, 'vsscore': 92.60450160771703, 'garbagesent': 13, 'garbagereceived': 31, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5f6f68b0454e942b4fe1d464', 'username': 'jekku', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 50255, 'stats': {'apm': 63.94101876675603, 'pps': 1.648793565683646, 'vsscore': 140.75067024128685, 'garbagesent': 35, 'garbagereceived': 39, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 50251, 'stats': {'apm': 61.0981697171381, 'pps': 2.136439267886855, 'vsscore': 109.8169717138103, 'garbagesent': 45, 'garbagereceived': 29, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2084.781911017738, 'rd': 60.26413620027607, 'tr': 18796.65067093665, 'rank': 'ss', 'placement': 3677
+                    },
+                    {'glicko': 2075.5689874215745, 'rd': 60.25033777513973, 'tr': 18704.12734195502, 'rank': 'ss', 'placement': 3808
+                    }
+                ], '5f6f68b0454e942b4fe1d464': [
+                    {'glicko': 2121.013135896072, 'rd': 60.656583964422985, 'tr': 19144.41023449436, 'rank': 'ss', 'placement': 3248
+                    },
+                    {'glicko': 2130.347521127916, 'rd': 60.640002006277946, 'tr': 19230.675548309024, 'rank': 'ss', 'placement': 3153
+                    }
+                ]
+            }, 'result': 'defeat'
+        }, 'disputed': False, 'p': {'pri': 1748118091383, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '6832139fde98f6e1ca9f3d52', 'replayid': 'b9837ad2f8d3', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T18: 44: 47.327Z', 'revolution': None, 'otherusers': [
+            {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'avatar_revision': None, 'banner_revision': None, 'country': 'KR', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 69.49891731983287, 'pps': 1.8298819726127664, 'vsscore': 145.1096404281924, 'garbagesent': 517, 'garbagereceived': 332, 'kills': 5, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 2, 'stats': {'apm': 63.057487947086, 'pps': 1.935014276739927, 'vsscore': 137.92652091177325, 'garbagesent': 442, 'garbagereceived': 397, 'kills': 2, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 64874, 'stats': {'apm': 93.97777203411735, 'pps': 1.9850090462651848, 'vsscore': 169.03592659601964, 'garbagesent': 87, 'garbagereceived': 28, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 64870, 'stats': {'apm': 69.10505836575875, 'pps': 1.8054474708171206, 'vsscore': 152.52918287937746, 'garbagesent': 42, 'garbagereceived': 74, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 61813, 'stats': {'apm': 67.61023407729994, 'pps': 1.7147523135547087, 'vsscore': 161.6766467065868, 'garbagesent': 62, 'garbagereceived': 38, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 61810, 'stats': {'apm': 56.878234813402344, 'pps': 2.092073004630891, 'vsscore': 129.12013075456278, 'garbagesent': 41, 'garbagereceived': 58, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 58875, 'stats': {'apm': 84.48769318832284, 'pps': 1.7172295363480252, 'vsscore': 159.70234688036635, 'garbagesent': 64, 'garbagereceived': 34, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 58870, 'stats': {'apm': 60.51282051282051, 'pps': 1.7606837606837606, 'vsscore': 124.78632478632478, 'garbagesent': 42, 'garbagereceived': 56, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 146243, 'stats': {'apm': 72.04940530649588, 'pps': 1.9899359560841723, 'vsscore': 157.13632204940532, 'garbagesent': 146, 'garbagereceived': 82, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 146234, 'stats': {'apm': 63.45427492274236, 'pps': 1.8129792835069245, 'vsscore': 147.6479340734806, 'garbagesent': 119, 'garbagereceived': 106, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 21154, 'stats': {'apm': 78.13504823151125, 'pps': 1.977491961414791, 'vsscore': 130.2250803858521, 'garbagesent': 22, 'garbagereceived': 7, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 21152, 'stats': {'apm': 23.39561332250203, 'pps': 2.1933387489845657, 'vsscore': 38.99268887083672, 'garbagesent': 8, 'garbagereceived': 20, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 157173, 'stats': {'apm': 61.34838640962829, 'pps': 2.0577271274896156, 'vsscore': 141.22909788049847, 'garbagesent': 137, 'garbagereceived': 82, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 157165, 'stats': {'apm': 58.15708364332023, 'pps': 1.7281326389626954, 'vsscore': 128.17515145073867, 'garbagesent': 122, 'garbagereceived': 100, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '60d735d29fdc532cfedaac74', 'username': 'fine4003', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 39566, 'stats': {'apm': 76.95596408721676, 'pps': 1.5904232578024797, 'vsscore': 141.0859341598974, 'garbagesent': 36, 'garbagereceived': 21, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 39563, 'stats': {'apm': 57.020547945205486, 'pps': 2.0547945205479454, 'vsscore': 97.6027397260274, 'garbagesent': 31, 'garbagereceived': 23, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2094.278818790633, 'rd': 60.28254853416212, 'tr': 18890.385111009433, 'rank': 'ss', 'placement': 3576
+                    },
+                    {'glicko': 2084.781911017738, 'rd': 60.26413620027607, 'tr': 18796.65067093665, 'rank': 'ss', 'placement': 3689
+                    }
+                ], '60d735d29fdc532cfedaac74': [
+                    {'glicko': 2120.674053794746, 'rd': 61.303990433502115, 'tr': 19138.936111810952, 'rank': 'ss', 'placement': 3267
+                    },
+                    {'glicko': 2130.488501958927, 'rd': 61.2463653458755, 'tr': 19229.80864538639, 'rank': 'ss', 'placement': 3162
+                    }
+                ]
+            }, 'result': 'defeat'
+        }, 'disputed': False, 'p': {'pri': 1748112287327, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '683210e69e3a5c5fbc21ad8c', 'replayid': 'a70db767a0db', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T18: 33: 10.375Z', 'revolution': None, 'otherusers': [
+            {'id': '649054b1d6bd6005d5f05180', 'username': 'yu1207', 'avatar_revision': None, 'banner_revision': None, 'country': 'TW', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 67.45707277187245, 'pps': 1.7743254292722812, 'vsscore': 133.27882256745707, 'garbagesent': 214, 'garbagereceived': 160, 'kills': 5, 'altitude': 0, 'rank': 6, 'targetingfactor': 18, 'targetinggrace': 0, 'btb': 10, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '649054b1d6bd6005d5f05180', 'username': 'yu1207', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 1, 'stats': {'apm': 58.38626841465063, 'pps': 2.128666035950804, 'vsscore': 116.3670766319773, 'garbagesent': 190, 'garbagereceived': 185, 'kills': 1, 'altitude': 0, 'rank': 6, 'targetingfactor': 18, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 22212, 'stats': {'apm': 80.99301784328937, 'pps': 1.8619084561675716, 'vsscore': 134.98836307214896, 'garbagesent': 29, 'garbagereceived': 7, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 6, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '649054b1d6bd6005d5f05180', 'username': 'yu1207', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 22210, 'stats': {'apm': 27.522935779816514, 'pps': 2.293577981651376, 'vsscore': 82.56880733944953, 'garbagesent': 9, 'garbagereceived': 27, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 48962, 'stats': {'apm': 78.36903939184519, 'pps': 1.824464409122322, 'vsscore': 151.3476157567381, 'garbagesent': 46, 'garbagereceived': 32, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '649054b1d6bd6005d5f05180', 'username': 'yu1207', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 48959, 'stats': {'apm': 69.15951972555746, 'pps': 2.1818181818181817, 'vsscore': 119.38250428816465, 'garbagesent': 40, 'garbagereceived': 42, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '649054b1d6bd6005d5f05180', 'username': 'yu1207', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 20323, 'stats': {'apm': 100.33783783783784, 'pps': 2.3817567567567566, 'vsscore': 167.2297297297297, 'garbagesent': 33, 'garbagereceived': 1, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 20320, 'stats': {'apm': 12.193056731583404, 'pps': 1.7273497036409822, 'vsscore': 25.40220152413209, 'garbagesent': 3, 'garbagereceived': 26, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 17218, 'stats': {'apm': 40.04044489383216, 'pps': 1.6986855409504549, 'vsscore': 66.73407482305358, 'garbagesent': 11, 'garbagereceived': 9, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '649054b1d6bd6005d5f05180', 'username': 'yu1207', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 17215, 'stats': {'apm': 32.07920792079208, 'pps': 2.2574257425742577, 'vsscore': 53.46534653465347, 'garbagesent': 9, 'garbagereceived': 11, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 32310, 'stats': {'apm': 62.89041821069349, 'pps': 1.9057702488088935, 'vsscore': 104.81736368448915, 'garbagesent': 31, 'garbagereceived': 5, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '649054b1d6bd6005d5f05180', 'username': 'yu1207', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 32306, 'stats': {'apm': 24.400417101147028, 'pps': 1.7205422314911367, 'vsscore': 50.05213764337852, 'garbagesent': 5, 'garbagereceived': 27, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 108076, 'stats': {'apm': 75.5362138638483, 'pps': 1.7158843643145787, 'vsscore': 163.19552377991917, 'garbagesent': 94, 'garbagereceived': 81, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '649054b1d6bd6005d5f05180', 'username': 'yu1207', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 108071, 'stats': {'apm': 66.28500696271081, 'pps': 2.1259477023054307, 'vsscore': 142.0393006343803, 'garbagesent': 94, 'garbagereceived': 77, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2084.6612364724465, 'rd': 60.304149591495744, 'tr': 18795.30329123556, 'rank': 'ss', 'placement': 3690
+                    },
+                    {'glicko': 2094.278818790633, 'rd': 60.28254853416212, 'tr': 18890.385111009433, 'rank': 'ss', 'placement': 3574
+                    }
+                ], '649054b1d6bd6005d5f05180': [
+                    {'glicko': 2062.124944461729, 'rd': 60.65024350847276, 'tr': 18564.759362290926, 'rank': 'ss', 'placement': 4007
+                    },
+                    {'glicko': 2052.394484007491, 'rd': 60.62952738181152, 'tr': 18462.900489633328, 'rank': 'ss', 'placement': 4161
+                    }
+                ]
+            }, 'result': 'victory'
+        }, 'disputed': False, 'p': {'pri': 1748111590375, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '6831e5a927fc316ed5932b4d', 'replayid': '1f51415fb895', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T15: 28: 41.719Z', 'revolution': None, 'otherusers': [
+            {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'avatar_revision': None, 'banner_revision': None, 'country': 'KR', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 72.18269565650033, 'pps': 1.9135280362207074, 'vsscore': 143.88775560973184, 'garbagesent': 335, 'garbagereceived': 230, 'kills': 5, 'altitude': 0, 'rank': 9, 'targetingfactor': 27, 'targetinggrace': 0, 'btb': 10, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 4, 'stats': {'apm': 64.74602035319052, 'pps': 1.8935823053181637, 'vsscore': 131.9890325912079, 'garbagesent': 279, 'garbagereceived': 275, 'kills': 4, 'altitude': 0, 'rank': 9, 'targetingfactor': 27, 'targetinggrace': 0, 'btb': 17, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 62935, 'stats': {'apm': 80.34006376195536, 'pps': 1.6578108395324123, 'vsscore': 173.75132837407014, 'garbagesent': 62, 'garbagereceived': 54, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 4, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 62932, 'stats': {'apm': 75.73901464713714, 'pps': 1.9813581890812249, 'vsscore': 164.58055925432754, 'garbagesent': 61, 'garbagereceived': 54, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 5, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 27783, 'stats': {'apm': 50.673194614443084, 'pps': 1.872705018359853, 'vsscore': 88.12729498164013, 'garbagesent': 19, 'garbagereceived': 5, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 27780, 'stats': {'apm': 15.319148936170214, 'pps': 1.7872340425531914, 'vsscore': 25.53191489361702, 'garbagesent': 5, 'garbagereceived': 19, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 35675, 'stats': {'apm': 85.14664143803218, 'pps': 1.9299905392620624, 'vsscore': 156.10217596972564, 'garbagesent': 44, 'garbagereceived': 21, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 35673, 'stats': {'apm': 57.410881801125704, 'pps': 1.9136960600375235, 'vsscore': 123.82739212007505, 'garbagesent': 27, 'garbagereceived': 34, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 31641, 'stats': {'apm': 113.34044823906083, 'pps': 2.209178228388474, 'vsscore': 208.110992529349, 'garbagesent': 49, 'garbagereceived': 21, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 31638, 'stats': {'apm': 81.9047619047619, 'pps': 2.1587301587301586, 'vsscore': 152.38095238095238, 'garbagesent': 36, 'garbagereceived': 34, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 49980, 'stats': {'apm': 67.9016503873358, 'pps': 2.1017177500842035, 'vsscore': 161.67059616032336, 'garbagesent': 45, 'garbagereceived': 37, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 49977, 'stats': {'apm': 65.27871054398926, 'pps': 1.8938885157824044, 'vsscore': 128.94560107454666, 'garbagesent': 44, 'garbagereceived': 39, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 23289, 'stats': {'apm': 78.31762146482959, 'pps': 1.9579405366207396, 'vsscore': 130.5293691080493, 'garbagesent': 25, 'garbagereceived': 10, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 6, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 23286, 'stats': {'apm': 41.860465116279066, 'pps': 1.6569767441860466, 'vsscore': 69.76744186046511, 'garbagesent': 15, 'garbagereceived': 20, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 27616, 'stats': {'apm': 83.72093023255813, 'pps': 1.7992656058751528, 'vsscore': 157.89473684210523, 'garbagesent': 33, 'garbagereceived': 10, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 27613, 'stats': {'apm': 52.42718446601942, 'pps': 1.6747572815533982, 'vsscore': 87.37864077669903, 'garbagesent': 10, 'garbagereceived': 28, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 5, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 30972, 'stats': {'apm': 82.6681246582832, 'pps': 1.6402405686167305, 'vsscore': 147.62165117550575, 'garbagesent': 36, 'garbagereceived': 9, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 30969, 'stats': {'apm': 29.173419773095624, 'pps': 1.6855753646677472, 'vsscore': 61.58833063209076, 'garbagesent': 9, 'garbagereceived': 34, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '665dd7625265b678e7301f4d', 'username': 'qsc08033', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 48728, 'stats': {'apm': 72.14927436074638, 'pps': 2.073255010366275, 'vsscore': 174.1534208707671, 'garbagesent': 48, 'garbagereceived': 37, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 48724, 'stats': {'apm': 66.64381213575591, 'pps': 2.0363387041480974, 'vsscore': 135.75591360987315, 'garbagesent': 46, 'garbagereceived': 39, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'665dd7625265b678e7301f4d': [
+                    {'glicko': 2037.1442158217174, 'rd': 60.48122037489491, 'tr': 18300.06444563182, 'rank': 'ss', 'placement': 4398
+                    },
+                    {'glicko': 2049.2099822508226, 'rd': 60.485137954735464, 'tr': 18429.678104980143, 'rank': 'ss', 'placement': 4200
+                    }
+                ], '5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2096.6534903908805, 'rd': 60.30519806456123, 'tr': 18913.50234513483, 'rank': 'ss', 'placement': 3558
+                    },
+                    {'glicko': 2084.6612364724465, 'rd': 60.304149591495744, 'tr': 18795.30329123556, 'rank': 'ss', 'placement': 3695
+                    }
+                ]
+            }, 'result': 'defeat'
+        }, 'disputed': False, 'p': {'pri': 1748100521719, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '6831b801de98f6e1ca9f32f1', 'replayid': 'eb41b55b3480', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T12: 13: 53.011Z', 'revolution': None, 'otherusers': [
+            {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'avatar_revision': 1643633837207, 'banner_revision': 1687455429754, 'country': 'CN', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 85.40852726346186, 'pps': 2.055376252760319, 'vsscore': 169.18634278919654, 'garbagesent': 347, 'garbagereceived': 190, 'kills': 5, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 2, 'stats': {'apm': 67.13239436619719, 'pps': 2.0146478873239437, 'vsscore': 153.80281690140845, 'garbagesent': 249, 'garbagereceived': 293, 'kills': 2, 'altitude': 0, 'rank': 7, 'targetingfactor': 21, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 50621, 'stats': {'apm': 91.97080291970804, 'pps': 2.289316522893165, 'vsscore': 209.0245520902455, 'garbagesent': 60, 'garbagereceived': 44, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 50618, 'stats': {'apm': 76.06470782436448, 'pps': 2.1591284252228458, 'vsscore': 170.35325189831627, 'garbagesent': 46, 'garbagereceived': 58, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 42718, 'stats': {'apm': 95.1854775059195, 'pps': 2.0599842146803473, 'vsscore': 194.1594317284925, 'garbagesent': 49, 'garbagereceived': 28, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 42715, 'stats': {'apm': 66.22309197651663, 'pps': 2.207436399217221, 'vsscore': 147.94520547945206, 'garbagesent': 42, 'garbagereceived': 38, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 59562, 'stats': {'apm': 71.9189645469893, 'pps': 1.6882386043894204, 'vsscore': 162.07090602138436, 'garbagesent': 53, 'garbagereceived': 47, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 59558, 'stats': {'apm': 63.74367622259697, 'pps': 1.736930860033727, 'vsscore': 123.1028667790894, 'garbagesent': 54, 'garbagereceived': 44, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 31853, 'stats': {'apm': 87.66543144520911, 'pps': 2.1598729486500794, 'vsscore': 187.40074113287454, 'garbagesent': 45, 'garbagereceived': 17, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 31848, 'stats': {'apm': 60.5359957961114, 'pps': 2.049395691014188, 'vsscore': 135.57540725170782, 'garbagesent': 25, 'garbagereceived': 34, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 28210, 'stats': {'apm': 84.375, 'pps': 2.379807692307692, 'vsscore': 140.625, 'garbagesent': 37, 'garbagereceived': 4, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 28208, 'stats': {'apm': 44.89311163895487, 'pps': 1.9596199524940618, 'vsscore': 99.7624703087886, 'garbagesent': 13, 'garbagereceived': 29, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 35146, 'stats': {'apm': 51.45307289185327, 'pps': 1.8294425917103383, 'vsscore': 137.20819437827538, 'garbagesent': 29, 'garbagereceived': 20, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 35143, 'stats': {'apm': 55.0406115623507, 'pps': 1.6626851409460106, 'vsscore': 91.73435260391783, 'garbagesent': 25, 'garbagereceived': 24, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5f5dcd05ea3d3a2b3abbcfd8', 'username': 'smexyhaoareyou', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 48906, 'stats': {'apm': 117.56617394293572, 'pps': 2.227569611550361, 'vsscore': 222.7569611550361, 'garbagesent': 77, 'garbagereceived': 29, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 48901, 'stats': {'apm': 81.203007518797, 'pps': 2.235133287764867, 'vsscore': 186.60287081339715, 'garbagesent': 41, 'garbagereceived': 67, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2104.16043106041, 'rd': 60.26440478849085, 'tr': 18986.319661835514, 'rank': 'ss', 'placement': 3475
+                    },
+                    {'glicko': 2096.6534903908805, 'rd': 60.30519806456123, 'tr': 18913.50234513483, 'rank': 'ss', 'placement': 3554
+                    }
+                ], '5f5dcd05ea3d3a2b3abbcfd8': [
+                    {'glicko': 2201.9728542902485, 'rd': 60.78358449026728, 'tr': 19843.421106996386, 'rank': 'ss', 'placement': 2454
+                    },
+                    {'glicko': 2209.6089100272734, 'rd': 60.815570549689724, 'tr': 19903.902111318344, 'rank': 'ss', 'placement': 2378
+                    }
+                ]
+            }, 'result': 'defeat'
+        }, 'disputed': False, 'p': {'pri': 1748088833011, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '6831b1ba8a9fe35d0dc3bc05', 'replayid': '800303af14f6', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T11: 47: 06.570Z', 'revolution': None, 'otherusers': [
+            {'id': '621e2f681d638ea850be56e8', 'username': 'playingspree', 'avatar_revision': 1648279012425, 'banner_revision': None, 'country': 'TH', 'supporter': True
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '621e2f681d638ea850be56e8', 'username': 'playingspree', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 51.929711249518576, 'pps': 1.7124362417020422, 'vsscore': 114.39438238445682, 'garbagesent': 317, 'garbagereceived': 198, 'kills': 5, 'altitude': 0, 'rank': 6, 'targetingfactor': 18, 'targetinggrace': 0, 'btb': 5, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 1, 'stats': {'apm': 45.81450526587177, 'pps': 1.7972274318515153, 'vsscore': 99.87095334121233, 'garbagesent': 272, 'garbagereceived': 247, 'kills': 1, 'altitude': 0, 'rank': 6, 'targetingfactor': 18, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '621e2f681d638ea850be56e8', 'username': 'playingspree', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 31248, 'stats': {'apm': 87.85249457700651, 'pps': 2.1149674620390453, 'vsscore': 204.98915401301514, 'garbagesent': 44, 'garbagereceived': 18, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 31246, 'stats': {'apm': 76.47058823529412, 'pps': 2.156862745098039, 'vsscore': 147.05882352941174, 'garbagesent': 38, 'garbagereceived': 25, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '621e2f681d638ea850be56e8', 'username': 'playingspree', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 138685, 'stats': {'apm': 48.17940680009646, 'pps': 1.7578972751386546, 'vsscore': 110.68242102724864, 'garbagesent': 96, 'garbagereceived': 56, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 138679, 'stats': {'apm': 44.32641236117818, 'pps': 2.122163206180589, 'vsscore': 102.12457749879285, 'garbagesent': 76, 'garbagereceived': 78, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '621e2f681d638ea850be56e8', 'username': 'playingspree', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 145472, 'stats': {'apm': 45.52247384756869, 'pps': 1.600183929187263, 'vsscore': 104.14990228761927, 'garbagesent': 84, 'garbagereceived': 67, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 145456, 'stats': {'apm': 42.26519337016574, 'pps': 1.5745856353591159, 'vsscore': 92.5414364640884, 'garbagesent': 82, 'garbagereceived': 70, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '621e2f681d638ea850be56e8', 'username': 'playingspree', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 65548, 'stats': {'apm': 48.935624519107456, 'pps': 1.7235188509874326, 'vsscore': 103.10335983585534, 'garbagesent': 43, 'garbagereceived': 25, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 65544, 'stats': {'apm': 37.914204983303364, 'pps': 1.4949910095042382, 'vsscore': 78.60262008733623, 'garbagesent': 33, 'garbagereceived': 34, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 32792, 'stats': {'apm': 76.91505992704535, 'pps': 1.8447107868681605, 'vsscore': 171.96456487754037, 'garbagesent': 41, 'garbagereceived': 18, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '621e2f681d638ea850be56e8', 'username': 'playingspree', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 32790, 'stats': {'apm': 53.45622119815668, 'pps': 1.5360983102918588, 'vsscore': 104.45468509984642, 'garbagesent': 27, 'garbagereceived': 30, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '621e2f681d638ea850be56e8', 'username': 'playingspree', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 19833, 'stats': {'apm': 76.98887938408896, 'pps': 1.8477331052181352, 'vsscore': 128.3147989734816, 'garbagesent': 23, 'garbagereceived': 2, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 19829, 'stats': {'apm': 9.366869037294016, 'pps': 1.5091066782307025, 'vsscore': 15.611448395490028, 'garbagesent': 2, 'garbagereceived': 22, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'621e2f681d638ea850be56e8': [
+                    {'glicko': 2082.0867538817993, 'rd': 61.00307943689371, 'tr': 18767.052033224958, 'rank': 'ss', 'placement': 3733
+                    },
+                    {'glicko': 2093.581180270307, 'rd': 60.968161162823506, 'tr': 18881.07392163068, 'rank': 'ss', 'placement': 3587
+                    }
+                ], '5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2115.385839437253, 'rd': 60.28010907153598, 'tr': 19093.05576041608, 'rank': 'ss', 'placement': 3327
+                    },
+                    {'glicko': 2104.16043106041, 'rd': 60.26440478849085, 'tr': 18986.319661835514, 'rank': 'ss', 'placement': 3473
+                    }
+                ]
+            }, 'result': 'defeat'
+        }, 'disputed': False, 'p': {'pri': 1748087226570, 'sec': 0, 'ter': 0
+        }
+    },
+    {'_id': '6831a7bfa35808f70d55953e', 'replayid': 'f6d84113cab7', 'stub': False, 'gamemode': 'league', 'pb': False, 'oncepb': False, 'ts': '2025-05-24T11: 04: 31.343Z', 'revolution': None, 'otherusers': [
+            {'id': '5fc5c9a213e8c021da3a4e97', 'username': 'kerman', 'avatar_revision': None, 'banner_revision': None, 'country': 'AU', 'supporter': False
+            }
+        ], 'leaderboards': [], 'results': {'leaderboard': [
+                {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 5, 'stats': {'apm': 76.03249251817016, 'pps': 1.9752030782385634, 'vsscore': 176.4856776400171, 'garbagesent': 211, 'garbagereceived': 149, 'kills': 5, 'altitude': 0, 'rank': 5, 'targetingfactor': 15, 'targetinggrace': 0, 'btb': 5, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                },
+                {'id': '5fc5c9a213e8c021da3a4e97', 'username': 'kerman', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                    ], 'wins': 0, 'stats': {'apm': 69.37307297019527, 'pps': 2.0811921891058582, 'vsscore': 142.34326824254882, 'garbagesent': 183, 'garbagereceived': 168, 'kills': 0, 'altitude': 0, 'rank': 5, 'targetingfactor': 15, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                    }
+                }
+            ], 'rounds': [
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 73589, 'stats': {'apm': 81.1106053709604, 'pps': 1.952662721893491, 'vsscore': 197.99726900318615, 'garbagesent': 86, 'garbagereceived': 59, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5fc5c9a213e8c021da3a4e97', 'username': 'kerman', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 73586, 'stats': {'apm': 81.12906897336671, 'pps': 2.062371955383565, 'vsscore': 176.18939221488733, 'garbagesent': 72, 'garbagereceived': 68, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 28711, 'stats': {'apm': 73.72732592159157, 'pps': 2.0362785254534814, 'vsscore': 136.9221767115272, 'garbagesent': 30, 'garbagereceived': 15, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 2, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5fc5c9a213e8c021da3a4e97', 'username': 'kerman', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 28708, 'stats': {'apm': 48.70588235294118, 'pps': 1.835294117647059, 'vsscore': 81.17647058823529, 'garbagesent': 20, 'garbagereceived': 25, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 41478, 'stats': {'apm': 68.39126919967664, 'pps': 1.9159256265157638, 'vsscore': 172.19078415521423, 'garbagesent': 43, 'garbagereceived': 28, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5fc5c9a213e8c021da3a4e97', 'username': 'kerman', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 41476, 'stats': {'apm': 55.429497568881686, 'pps': 1.8962722852512155, 'vsscore': 126.41815235008103, 'garbagesent': 34, 'garbagereceived': 37, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 19800, 'stats': {'apm': 46.193327630453375, 'pps': 2.001710863986313, 'vsscore': 97.51924721984601, 'garbagesent': 15, 'garbagereceived': 9, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5fc5c9a213e8c021da3a4e97', 'username': 'kerman', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 19797, 'stats': {'apm': 43.18766066838047, 'pps': 2.467866323907455, 'vsscore': 71.97943444730078, 'garbagesent': 14, 'garbagereceived': 10, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 3, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ],
+                [
+                    {'id': '5e9b2a6d83e2a23fbb012b9f', 'username': 'stqrm', 'active': True, 'naturalorder': 1, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': True, 'lifetime': 32840, 'stats': {'apm': 94.20215495125704, 'pps': 2.0318111852231913, 'vsscore': 215.49512570548995, 'garbagesent': 37, 'garbagereceived': 38, 'kills': 1, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 1, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    },
+                    {'id': '5fc5c9a213e8c021da3a4e97', 'username': 'kerman', 'active': True, 'naturalorder': 0, 'shadows': [], 'shadowedBy': [None, None
+                        ], 'alive': False, 'lifetime': 32839, 'stats': {'apm': 94.25051334702259, 'pps': 2.3408624229979464, 'vsscore': 181.7248459958932, 'garbagesent': 43, 'garbagereceived': 28, 'kills': 0, 'altitude': 0, 'rank': 1, 'targetingfactor': 3, 'targetinggrace': 0, 'btb': 0, 'revives': 0, 'escapeartist': None, 'blockrationing_app': None, 'blockrationing_final': None
+                        }
+                    }
+                ]
+            ]
+        }, 'extras': {'league': {'5fc5c9a213e8c021da3a4e97': [
+                    {'glicko': 2072.8854747679075, 'rd': 61.17007993557252, 'tr': 18673.525719748948, 'rank': 'ss', 'placement': 3868
+                    },
+                    {'glicko': 2063.312303691467, 'rd': 61.12245792048614, 'tr': 18575.35583178958, 'rank': 'ss', 'placement': 3999
+                    }
+                ], '5e9b2a6d83e2a23fbb012b9f': [
+                    {'glicko': 2106.0790159898925, 'rd': 60.29663873387525, 'tr': 19004.614623165387, 'rank': 'ss', 'placement': 3451
+                    },
+                    {'glicko': 2115.385839437253, 'rd': 60.28010907153598, 'tr': 19093.05576041608, 'rank': 'ss', 'placement': 3324
+                    }
+                ]
+            }, 'result': 'victory'
+        }, 'disputed': False, 'p': {'pri': 1748084671343, 'sec': 0, 'ter': 0
+        }
+    }
+]
