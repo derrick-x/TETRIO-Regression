@@ -97,21 +97,21 @@ def getPlaystyle(player):
     playstyle += ("Category | " + player + " stats | Expected stats at " + f"{glicko}" + " glicko" + "\n")
     col_width = len(player) + 9
     pps_predict = pps_model.predict(pps_poly.transform([[glicko]]))[0]
-    playstyle += ("pps:       " + f"{pps:<{col_width}.2f}{pps_predict:.2f}" + "\n")
+    playstyle += ("pps:      " + f"{pps:<{col_width}.2f}|{pps_predict:.2f}" + "\n")
     apm_predict = apm_model.predict(apm_poly.transform([[glicko]]))[0]
-    playstyle += ("apm:       " + f"{apm:<{col_width}.2f}{apm_predict:.2f}" + "\n")
+    playstyle += ("apm:      " + f"{apm:<{col_width}.2f}|{apm_predict:.2f}" + "\n")
     vs_predict = vs_model.predict(vs_poly.transform([[glicko]]))[0]
-    playstyle += ("vs:        " + f"{vs:<{col_width}.2f}{vs_predict:.2f}" + "\n")
+    playstyle += ("vs:       " + f"{vs:<{col_width}.2f}|{vs_predict:.2f}" + "\n")
     app_predict = apm_predict / (pps_predict * 60)
-    playstyle += ("app:       " + f"{app:<{col_width}.2f}{app_predict:.2f}" + "\n")
+    playstyle += ("app:      " + f"{app:<{col_width}.2f}|{app_predict:.2f}" + "\n")
     dsm_predict = vs_predict * 60 / 100 - apm_predict
-    playstyle += ("dsm:       " + f"{dsm:<{col_width}.2f}{dsm_predict:.2f}" + "\n")
+    playstyle += ("dsm:      " + f"{dsm:<{col_width}.2f}|{dsm_predict:.2f}" + "\n")
     dsp_predict = dsm_predict / (pps_predict * 60)
-    playstyle += ("dsp:       " + f"{dsp:<{col_width}.2f}{dsp_predict:.2f}" + "\n")
+    playstyle += ("dsp:      " + f"{dsp:<{col_width}.2f}|{dsp_predict:.2f}" + "\n")
     plonk_predict = vs_predict / (pps_predict * 60)
-    playstyle += ("plonk:     " + f"{plonk:<{col_width}.2f}{plonk_predict:.2f}" + "\n")
+    playstyle += ("plonk:    " + f"{plonk:<{col_width}.2f}|{plonk_predict:.2f}" + "\n")
     defense_predict = vs_predict / apm_predict
-    playstyle += ("defense:   " + f"{defense:<{col_width}.2f}{defense_predict:.2f}")
+    playstyle += ("defense:  " + f"{defense:<{col_width}.2f}|{defense_predict:.2f}")
     return playstyle
 
 def getLeagueRecord(player, after):
