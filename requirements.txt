@@ -1,6 +1,4 @@
+flask
 requests
-sklearn.linear_model
-sklearn.preprocessing
+scikit-learn
 numpy
-uuid
-json
