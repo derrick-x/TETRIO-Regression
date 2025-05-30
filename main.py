@@ -4,9 +4,9 @@ from sklearn.preprocessing import PolynomialFeatures
 import numpy as np
 import uuid
 import json
-#from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template
 
-#app = Flask(__name__)
+app = Flask(__name__)
 
 session_id = str(uuid.uuid4())
 
@@ -213,7 +213,7 @@ def getOpenerCoefficient(player):
     model.fit(x, y)
     winrate = model.coef_[0] * 100
     return (f"For every second a round takes, {player}'s win rate changes by about {winrate}%")
-'''
+
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -236,8 +236,7 @@ def predict():
             return jsonify({"result": getMatchupStats(data["player"])})
     except (KeyError, TypeError, ValueError):
         return jsonify({"error": "Invalid input."}), 400
-'''
+
 # Start the server (Render detects and exposes this)
-# if __name__ == "__main__":
-#    app.run(host="0.0.0.0", port=10000)
-print(getPlaystyle("pentag"))
+if __name__ == "__main__":
+   app.run(host="0.0.0.0", port=10000)
