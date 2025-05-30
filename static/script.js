@@ -11,7 +11,8 @@ async function statsToGlicko() {
         body: JSON.stringify({function: "statsToGlicko", apm: apm, pps: pps, vs: vs})
     });
     const data = await res.json();
-    document.getElementById("result1").textContent = data["result"]
+    document.getElementById("result1").textContent = data["result"];
+    console.log("success")
 }
 async function estimateGlicko() {
     document.getElementById("result2").textContent = "Loading..."
@@ -24,7 +25,8 @@ async function estimateGlicko() {
         body: JSON.stringify({function: "estimateGlicko", player: player.toLowerCase()})
     });
     const data = await res.json();
-    document.getElementById("result2").textContent = data["result"]
+    document.getElementById("result2").textContent = data["result"];
+    console.log("success")
 }
 async function getPlaystyle() {
     document.getElementById("result3").textContent = "Loading..."
@@ -37,7 +39,8 @@ async function getPlaystyle() {
         body: JSON.stringify({function: "getPlaystyle", player: player.toLowerCase()})
     });
     const data = await res.json();
-    document.getElementById("result3").textContent = data["result"]
+    document.getElementById("result3").textContent = data["result"];
+    console.log("success")
 }
 async function getMatchupPlayers() {
     document.getElementById("result4").textContent = "Loading..."
@@ -51,7 +54,8 @@ async function getMatchupPlayers() {
         body: JSON.stringify({function: "getMatchupPlayers", player: player.toLowerCase(), opponent: opponent.toLowerCase()})
     });
     const data = await res.json();
-    document.getElementById("result4").textContent = data["result"]
+    document.getElementById("result4").textContent = data["result"];
+    console.log("success")
 }
 async function getMatchupStats() {
     document.getElementById("result5").textContent = "Loading..."
@@ -67,7 +71,8 @@ async function getMatchupStats() {
         body: JSON.stringify({function: "getMatchupStats", player: player.toLowerCase(), apm: apm, pps: pps, vs: vs})
     });
     const data = await res.json();
-    document.getElementById("result5").textContent = data["result"]
+    document.getElementById("result5").textContent = data["result"];
+    console.log("success");
 }
 async function getOpenerCoefficient() {
     document.getElementById("result6").textContent = "Loading..."
@@ -80,5 +85,6 @@ async function getOpenerCoefficient() {
         body: JSON.stringify({function: "getOpenerCoefficient", player: player.toLowerCase()})
     });
     const data = await res.json();
-    document.getElementById("result6").textContent = data["result"]
+    document.getElementById("result6").textContent = data["result"];
+    console.log("success")
 }

@@ -4,9 +4,9 @@ from sklearn.preprocessing import PolynomialFeatures
 import numpy as np
 import uuid
 import json
-from flask import Flask, request, jsonify, render_template
+#from flask import Flask, request, jsonify, render_template
 
-app = Flask(__name__)
+#app = Flask(__name__)
 
 session_id = str(uuid.uuid4())
 
@@ -16,7 +16,7 @@ def callAPI(url, params):
         "User-Agent": "Mozilla/5.0"
     }
     response = requests.get(url, headers = headers, params = params)
-    print("Response from " + url + ": " + str(response.status_code))
+    # print("Response from " + url + ": " + str(response.status_code))
     if (response.status_code != 200):
         return None
     return response.json()["data"]
@@ -35,12 +35,12 @@ def getLeagueStats():
         for entry in data["entries"]:
             stats.append(entry["league"])
         last_prisecter = data["entries"][-1]["p"]
-        print(i)
+        # print(i)
     after = f'{last_prisecter["pri"]}:{last_prisecter["sec"]}:{last_prisecter["ter"]}'
     data = callAPI("https://ch.tetr.io/api/users/by/league", {"limit": count % 42706, "after": after})
     for entry in data["entries"]:
         stats.append(entry["league"])
-    print(len(stats))
+    # print(len(stats))
     with open("league_stats.json", "w") as f:
         f.write(str(stats))
 
@@ -49,7 +49,7 @@ def regression(x, y, degree):
     x_poly = poly.fit_transform(x)
     model = LinearRegression()
     model.fit(x_poly, y)
-    print("Model R² score:", model.score(x_poly, y))
+    # print("Model R² score:", model.score(x_poly, y))
     return model, poly
 
 def statsToGlicko(apm, pps, vs):
@@ -67,7 +67,7 @@ def statsToGlicko(apm, pps, vs):
 
 def estimateGlicko(player):
     data = callAPI("https://ch.tetr.io/api/users/" + player + "/summaries/league", {})
-    return (f"{player}'s estimated glicko is: {statsToGlicko(data['apm'], data['pps'], data['vs'])}:.2f")
+    return (f"{player}'s estimated glicko is: {statsToGlicko(data['apm'], data['pps'], data['vs'])}")
 
 def getPlaystyle(player):
     data = callAPI("https://ch.tetr.io/api/users/" + player + "/summaries/league", {})
@@ -92,26 +92,26 @@ def getPlaystyle(player):
     y = np.array([player["vs"] for player in data])
     vs_model, vs_poly = regression(x, y, 3)
     playstyle = ""
-    playstyle.join(player + " analysis:")
-    playstyle.join(player + " glicko: " + f"{glicko:.2f}")
-    playstyle.join("Category | " + player + " stats | Expected stats at " + f"{glicko:.2f}" + " glicko")
+    playstyle += (player + " analysis:" + "\n")
+    playstyle += (player + " glicko: " + f"{glicko}" + "\n")
+    playstyle += ("Category | " + player + " stats | Expected stats at " + f"{glicko}" + " glicko" + "\n")
     col_width = len(player) + 9
     pps_predict = pps_model.predict(pps_poly.transform([[glicko]]))[0]
-    playstyle.join("pps:       " + f"{pps:<{col_width}.2f}{pps_predict:.2f}")
+    playstyle += ("pps:       " + f"{pps:<{col_width}.2f}{pps_predict:.2f}" + "\n")
     apm_predict = apm_model.predict(apm_poly.transform([[glicko]]))[0]
-    playstyle.join("apm:       " + f"{apm:<{col_width}.2f}{apm_predict:.2f}")
+    playstyle += ("apm:       " + f"{apm:<{col_width}.2f}{apm_predict:.2f}" + "\n")
     vs_predict = vs_model.predict(vs_poly.transform([[glicko]]))[0]
-    playstyle.join("vs:        " + f"{vs:<{col_width}.2f}{vs_predict:.2f}")
+    playstyle += ("vs:        " + f"{vs:<{col_width}.2f}{vs_predict:.2f}" + "\n")
     app_predict = apm_predict / (pps_predict * 60)
-    playstyle.join("app:       " + f"{app:<{col_width}.2f}{app_predict:.2f}")
+    playstyle += ("app:       " + f"{app:<{col_width}.2f}{app_predict:.2f}" + "\n")
     dsm_predict = vs_predict * 60 / 100 - apm_predict
-    playstyle.join("dsm:       " + f"{dsm:<{col_width}.2f}{dsm_predict:.2f}")
+    playstyle += ("dsm:       " + f"{dsm:<{col_width}.2f}{dsm_predict:.2f}" + "\n")
     dsp_predict = dsm_predict / (pps_predict * 60)
-    playstyle.join("dsp:       " + f"{dsp:<{col_width}.2f}{dsp_predict:.2f}")
+    playstyle += ("dsp:       " + f"{dsp:<{col_width}.2f}{dsp_predict:.2f}" + "\n")
     plonk_predict = vs_predict / (pps_predict * 60)
-    playstyle.join("plonk:     " + f"{plonk:<{col_width}.2f}{plonk_predict:.2f}")
+    playstyle += ("plonk:     " + f"{plonk:<{col_width}.2f}{plonk_predict:.2f}" + "\n")
     defense_predict = vs_predict / apm_predict
-    playstyle.join("defense:   " + f"{defense:<{col_width}.2f}{defense_predict:.2f}")
+    playstyle += ("defense:   " + f"{defense:<{col_width}.2f}{defense_predict:.2f}")
     return playstyle
 
 def getLeagueRecord(player, after):
@@ -188,12 +188,12 @@ def getMatchupPlayers(player1, player2):
     win1 = model1.predict(poly1.transform(np.array([[pps2, apm2, vs2, apmpps2, vspps2, vsapm2, pps2, apm2, vs2, apmpps2, vspps2, vsapm2]])))
     win2 = model2.predict(poly2.transform(np.array([[pps1, apm1, vs1, apmpps1, vspps1, vsapm1, pps1, apm1, vs1, apmpps1, vspps1, vsapm1]])))
     winrate = win1 * 100 / (win1 + win2)
-    return (f"{player1} has a {winrate[0]:.2f}% chance of beating {player2}")
+    return (f"{player1} has a {winrate[0]}% chance of beating {player2}")
 
 def getMatchupStats(player, apm, pps, vs):
     model, poly = getMatchupModel(player)
     winrate = model.predict(poly.transform(np.array([[pps, apm, vs, apm / pps, vs / pps, vs / apm, pps, apm, vs, apm / pps, vs / pps, vs / apm]]))) * 100
-    return (f"{player} has a {winrate[0]:.2f}% chance of beating those stats")
+    return (f"{player} has a {winrate[0]}% chance of beating those stats")
 
 def getOpenerCoefficient(player):
     data = getLeagueRecord(player, None)
@@ -212,8 +212,8 @@ def getOpenerCoefficient(player):
     model = LinearRegression()
     model.fit(x, y)
     winrate = model.coef_[0] * 100
-    return (f"For every second a round takes, {player}'s win rate changes by about {winrate:.7f}%")
-
+    return (f"For every second a round takes, {player}'s win rate changes by about {winrate}%")
+'''
 @app.route("/")
 def index():
     return render_template("index.html")
@@ -236,7 +236,8 @@ def predict():
             return jsonify({"result": getMatchupStats(data["player"])})
     except (KeyError, TypeError, ValueError):
         return jsonify({"error": "Invalid input."}), 400
-
+'''
 # Start the server (Render detects and exposes this)
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=10000)
+# if __name__ == "__main__":
+#    app.run(host="0.0.0.0", port=10000)
+print(getPlaystyle("pentag"))
