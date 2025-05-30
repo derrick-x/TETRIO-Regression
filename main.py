@@ -4,6 +4,9 @@ from sklearn.preprocessing import PolynomialFeatures
 import numpy as np
 import uuid
 import json
+from flask import Flask, request, jsonify
+
+app = Flask(__name__)
 
 session_id = str(uuid.uuid4())
 
@@ -209,9 +212,18 @@ def getOpenerCoefficient(player):
     winrate = model.coef_[0] * 100
     print(f"For every second a round takes, {player}'s win rate changes by about {winrate:.7f}%")
 
-# getLeagueStats()
+@app.route("/")
+def index():
+    return "TETRIO Regression app is running!"
 
-estimateGlicko("pentag")
-getPlaystyle("pentag")
-getMatchupPlayers("pentag", "unommed")
-getOpenerCoefficient("pentag")
+@app.route("/predict", methods=["POST"])
+def predict():
+    try:
+        data = request.get_json()
+        return jsonify({"received": data})
+    except (KeyError, TypeError, ValueError):
+        return jsonify({"error": "Invalid input."}), 400
+
+# Start the server (Render detects and exposes this)
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=10000)
