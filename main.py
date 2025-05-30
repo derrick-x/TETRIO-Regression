@@ -4,7 +4,7 @@ from sklearn.preprocessing import PolynomialFeatures
 import numpy as np
 import uuid
 import json
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 
 app = Flask(__name__)
 
@@ -216,7 +216,7 @@ def getOpenerCoefficient(player):
 
 @app.route("/")
 def index():
-    return "TETRIO Regression app is running!"
+    return render_template("index.html")
 
 @app.route("/predict", methods=["POST"])
 def predict():
