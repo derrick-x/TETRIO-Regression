@@ -1,4 +1,3 @@
-import sys
 import requests
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
@@ -53,7 +52,7 @@ def regression(x, y, degree):
 def statsToGlicko(apm, pps, vs):
     with open("league_stats.json", "r") as f:
         data = json.load(f)
-    x = np.array([[player["apm"], player["pps"], player["vs"], player["apm"] / player["pps"], player["vs"] / player["pps"], player["vs"] / player["apm"]] for player in data])
+    x = np.array([[player['apm'], player['pps'], player['vs'], player['apm'] / player['pps'], player['vs'] / player['pps'], player['vs'] / player['apm']] for player in data])
     y = np.array([player["glicko"] for player in data])
     model, poly = regression(x, y, 2)
     apmpps = apm / pps
@@ -65,7 +64,7 @@ def statsToGlicko(apm, pps, vs):
 
 def estimateGlicko(player):
     data = callAPI("https://ch.tetr.io/api/users/" + player + "/summaries/league", {})
-    print(f"{player}'s estimated glicko is: {statsToGlicko(data["apm"], data["pps"], data["vs"])}:.2f")
+    print(f"{player}'s estimated glicko is: {statsToGlicko(data['apm'], data['pps'], data['vs'])}:.2f")
 
 def getPlaystyle(player):
     data = callAPI("https://ch.tetr.io/api/users/" + player + "/summaries/league", {})
