@@ -233,7 +233,7 @@ def predict():
         elif data["function"] == "getMatchupStats":
             return jsonify({"result": getMatchupStats(data["player"], data["apm"], data["pps"], data["vs"])})
         elif data["function"] == "getOpenerCoefficient":
-            return jsonify({"result": getMatchupStats(data["player"])})
+            return jsonify({"result": getOpenerCoefficient(data["player"])})
     except (KeyError, TypeError, ValueError):
         return jsonify({"error": "Invalid input."}), 400
 
