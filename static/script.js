@@ -7,7 +7,7 @@ async function statsToGlicko() {
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({apm: apm, pps: pps, vs: vs})
+        body: JSON.stringify({function: "statsToGlicko", apm: apm, pps: pps, vs: vs})
     });
     const data = await res.json();
     document.getElementById("result1").textContent = data["result"]
@@ -19,7 +19,7 @@ async function estimateGlicko() {
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({player: player})
+        body: JSON.stringify({function: "estimateGlicko", player: player})
     });
     const data = await res.json();
     document.getElementById("result").textContent = data["result"]
@@ -31,7 +31,7 @@ async function getPlaystyle() {
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({player: player})
+        body: JSON.stringify({function: "getPlaystyle", player: player})
     });
     const data = await res.json();
     document.getElementById("result3").textContent = data["result"]
@@ -44,7 +44,7 @@ async function getMatchupPlayers() {
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({player: player, opponent: opponent})
+        body: JSON.stringify({function: "getMatchupPlayers", player: player, opponent: opponent})
     });
     const data = await res.json();
     document.getElementById("result4").textContent = data["result"]
@@ -59,7 +59,7 @@ async function getMatchupStats() {
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({player: player, apm: apm, pps: pps, vs: vs})
+        body: JSON.stringify({function: "getMatchupStats", player: player, apm: apm, pps: pps, vs: vs})
     });
     const data = await res.json();
     document.getElementById("result5").textContent = data["result"]
@@ -71,7 +71,7 @@ async function getOpenerCoefficient() {
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({player: player})
+        body: JSON.stringify({function: "getOpenerCoefficient", player: player})
     });
     const data = await res.json();
     document.getElementById("result6").textContent = data["result"]
